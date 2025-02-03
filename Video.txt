@@ -1,1 +1,1 @@
-yt-dlp -f "mp4" -o "F:\Videos\Yt-dlp Rando\%(title)s.%(ext)s" 
+yt-dlp -f "mp4" -o "C:\Videos\%(title)s.%(ext)s" 
