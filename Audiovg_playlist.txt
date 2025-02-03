@@ -1,1 +1,1 @@
-yt-dlp -x --audio-format "mp3" --embed-thumbnail --parse-metadata "title:%(title)s - %(album)s" "description:(?s)(?P<meta_comment>.+)" --add-metadata -o "C:\Users\user_name\Music\!Videogame_OSTs\%(playlist)s\%(playlist_index)s - %(title)s.%(ext)s" 
+yt-dlp -x --audio-format "mp3" --embed-thumbnail --parse-metadata "title:%(title)s - %(album)s" "description:(?s)(?P<meta_comment>.+)" --add-metadata -o "C:\Music\!Videogame_OSTs\%(playlist)s\%(playlist_index)s - %(title)s.%(ext)s" 
