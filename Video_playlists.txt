@@ -1,0 +1,1 @@
+yt-dlp -o "C:\Users\broth\Videos\%(playlist)s\%(playlist_index)s - %(title)s.%(ext)s" 
